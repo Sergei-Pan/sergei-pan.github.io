@@ -45,7 +45,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Плагин mobirise video editor",
         "meta_descr": "Плагин mobirise video editor",
         "header_custom": "",
         "footer_custom": "",
@@ -117,7 +117,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#faaf40!important"
+              "color": "#ff9e21!important"
             },
             "A": {
               "font-size": "15px"
@@ -182,7 +182,7 @@
     },
     "faq.html": {
       "settings": {
-        "title": "faq",
+        "title": "Видео инструкция по устаковке плагина mobirise code editor",
         "meta_descr": "Видео инструкция по устаковке плагина mobirise code editor",
         "header_custom": "",
         "footer_custom": "",
@@ -255,7 +255,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#faaf40!important"
+              "color": "#ff9e21!important"
             },
             "A": {
               "font-size": "15px"
@@ -307,7 +307,7 @@
     },
     "buy.html": {
       "settings": {
-        "title": "buy",
+        "title": "Купить плагин mobirise code editor",
         "meta_descr": "Купить плагин mobirise code editor",
         "header_custom": "",
         "footer_custom": "",
@@ -380,7 +380,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#faaf40!important"
+              "color": "#ff9e21!important"
             },
             "A": {
               "font-size": "15px"
