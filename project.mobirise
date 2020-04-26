@@ -144,7 +144,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
             "showArrow": false,
             "contentAlign": "center",
@@ -162,7 +162,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "\n<div><br></div><div>&nbsp;Плагин Mobirise code editor + инструкция</div>",
-          "text": "<br><br>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"buy.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>Купить</a> ",
           "_tags": [
             "Theme"
