@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-26_1330",
-    "currentPage": "index.html",
+    "currentPage": "faq.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -290,7 +290,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/_6kW2adRlyo",
+              "src": "https://youtu.be/WcgxSEC4fEQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
